@@ -1,0 +1,21 @@
+c:\users\alumnos\documents\visual studio 2015\Projects\UNACH\UNACH.Calculadora.Windows\bin\Debug\UNACH.Calculadora.Windows.exe.config
+E:\UNACH\UNACH.Calculadora.Windows\bin\Debug\UNACH.Calculadora.Windows.exe.config
+E:\UNACH\UNACH.Calculadora.Windows\bin\Debug\UNACH.Calculadora.Windows.exe
+E:\UNACH\UNACH.Calculadora.Windows\bin\Debug\UNACH.Calculadora.Windows.pdb
+E:\UNACH\UNACH.Calculadora.Windows\obj\Debug\UNACH.Calculadora.Windows.csprojResolveAssemblyReference.cache
+E:\UNACH\UNACH.Calculadora.Windows\obj\Debug\UNACH.Calculadora.Windows.Properties.Resources.resources
+E:\UNACH\UNACH.Calculadora.Windows\obj\Debug\UNACH.Calculadora.Windows.csproj.GenerateResource.Cache
+E:\UNACH\UNACH.Calculadora.Windows\obj\Debug\UNACH.Calculadora.Windows.exe
+E:\UNACH\UNACH.Calculadora.Windows\obj\Debug\UNACH.Calculadora.Windows.pdb
+E:\UNACH\UNACH.Calculadora.Windows\obj\Debug\UNACH.Calculadora.Windows.Form1.resources
+E:\UNACH\UNACH.Calculadora.Windows\obj\Debug\UNACH.Calculadora.Windows.Form2.resources
+F:\UNACH\UNACH.Calculadora.Windows\bin\Debug\UNACH.Calculadora.Windows.exe.config
+F:\UNACH\UNACH.Calculadora.Windows\obj\Debug\UNACH.Calculadora.Windows.exe
+F:\UNACH\UNACH.Calculadora.Windows\obj\Debug\UNACH.Calculadora.Windows.pdb
+F:\UNACH\UNACH.Calculadora.Windows\bin\Debug\UNACH.Calculadora.Windows.exe
+F:\UNACH\UNACH.Calculadora.Windows\bin\Debug\UNACH.Calculadora.Windows.pdb
+F:\UNACH\UNACH.Calculadora.Windows\obj\Debug\UNACH.Calculadora.Windows.csprojResolveAssemblyReference.cache
+F:\UNACH\UNACH.Calculadora.Windows\obj\Debug\UNACH.Calculadora.Windows.Form1.resources
+F:\UNACH\UNACH.Calculadora.Windows\obj\Debug\UNACH.Calculadora.Windows.Form2.resources
+F:\UNACH\UNACH.Calculadora.Windows\obj\Debug\UNACH.Calculadora.Windows.Properties.Resources.resources
+F:\UNACH\UNACH.Calculadora.Windows\obj\Debug\UNACH.Calculadora.Windows.csproj.GenerateResource.Cache
